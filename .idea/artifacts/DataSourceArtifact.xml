@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DataSourceArtifact">
+    <output-path>$PROJECT_DIR$/out/artifacts/DataSourceArtifact</output-path>
+    <root id="archive" name="DataSourceArtifact.jar">
+      <element id="module-output" name="DataSource" />
+    </root>
+  </artifact>
+</component>
